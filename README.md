@@ -10,7 +10,7 @@
 <img align="center"alt="Rafa-Python"height="30"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
 </div>
----
+
 <br>
 <font color="#FFFF00">
 <p> Meu linkedin </p>
