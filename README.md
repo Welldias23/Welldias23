@@ -1,1 +1,1 @@
-### Óla! Eu sou Wellington Ribeiro Dias
+[ ![ Digitando SVG ] ( https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35¢er=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Caroline+Barbosa;Sou +26+anos;Sou+do+Brasil;Sou+formado+em+sistemas+Desenvolvimento+Seja+bem-vindo!+:%29 )] ( https://git.io/typing-svg )
