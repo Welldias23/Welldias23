@@ -17,3 +17,10 @@
 </font>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-ribeiro-dias-dev-backend/)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Welldias23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="174" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Welldias23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&custom_title=Stats" height="150" alt="languages graph"  />
+</div>
+
+###
