@@ -31,6 +31,8 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
 </div>
 
+<h2 align="left">Stats</h2>
+
 ###
 
 
